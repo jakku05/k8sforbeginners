@@ -8,3 +8,6 @@ https://docs.google.com/document/d/1ikdoPeElFCGsAmNH2hIZ9iSTQKczxODruiddqzY8Thk/
 
 **Linux and kubernetes basic commands **
 https://docs.google.com/document/d/1tRae7JQ1HJ_uo3WqleZmfYgdn-N9bDXIcH00xshxzkY/edit?tab=t.0
+
+**Tutorial: Understanding Kubernetes Objects
+**https://docs.google.com/document/d/1mmmNOQwWBP0_QMHvDR4vmZt8Nl80hP-vtvjNajGPLKY/edit?tab=t.0
