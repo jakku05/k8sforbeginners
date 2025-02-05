@@ -10,9 +10,8 @@ Metrics Server is an aggregator for resource usage data, such as CPU and memory,
 
 Steps for Creating and Configuring the metrics server
 # Create a new YAML file for defining a deployment
-nano metricsserver.yaml
-
-Content of metricsserver.yaml:
+```bash
+##Content of metricsserver.yaml:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -33,6 +32,8 @@ spec:
       containers:
         - name: php-redis
           image: gcr.io/google_samples/gb-frontend:v3
+
+```
 
 # Create a deployment using the YAML file
 kubectl create -f deployment.yaml
